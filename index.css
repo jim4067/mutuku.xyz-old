@@ -1,0 +1,15 @@
+.heading {
+    text-align: center;
+}
+
+body {
+     text-align: center;
+}
+.display-block {
+    display: flex;
+    flex-direction: column;
+}
+
+.underline {
+    text-decoration: underline;
+}
